@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/e-commerce-with-React/static/css/main.2ac6c7ef.chunk.css",
+    "main.js": "/e-commerce-with-React/static/js/main.8666ac34.chunk.js",
+    "main.js.map": "/e-commerce-with-React/static/js/main.8666ac34.chunk.js.map",
+    "runtime-main.js": "/e-commerce-with-React/static/js/runtime-main.9a8da08d.js",
+    "runtime-main.js.map": "/e-commerce-with-React/static/js/runtime-main.9a8da08d.js.map",
+    "static/js/2.bce005a1.chunk.js": "/e-commerce-with-React/static/js/2.bce005a1.chunk.js",
+    "static/js/2.bce005a1.chunk.js.map": "/e-commerce-with-React/static/js/2.bce005a1.chunk.js.map",
+    "index.html": "/e-commerce-with-React/index.html",
+    "precache-manifest.d4ee6e2df47b1f77b0f8d68012fafa2b.js": "/e-commerce-with-React/precache-manifest.d4ee6e2df47b1f77b0f8d68012fafa2b.js",
+    "service-worker.js": "/e-commerce-with-React/service-worker.js",
+    "static/css/main.2ac6c7ef.chunk.css.map": "/e-commerce-with-React/static/css/main.2ac6c7ef.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/e-commerce-with-React/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/e-commerce-with-React/static/media/shopping-bag.30f07071.svg"
+  }
+}
